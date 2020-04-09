@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spark-core_2.11-2.4.0">
+    <CLASSES>
+      <root url="jar://D:/saclaworkplace/WordCoumt/lib/spark-core_2.11-2.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
