@@ -13,6 +13,7 @@ object helloworld {
     counts.collect.foreach{
       case (word, num) =>
         println(word + " " + num.toString)
+        //git com
     }
 
   }

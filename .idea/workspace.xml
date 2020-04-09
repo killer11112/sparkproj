@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d1deb9e-cf64-43b6-80b7-6df00d86627c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/sparkproj/com/shaohang/a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shaohang/helloworld.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shaohang/helloworld.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\sparkproj" />
+        <option value="E:\sparkproj\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\LocalWarHouse" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WbJsNdFvG6lIYdrGVwbvRmR5OU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\sparkproj\src\com\shaohang" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="helloworld" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.shaohang.helloworld" />
+      <module name="sparkproj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shaohang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.helloworld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d1deb9e-cf64-43b6-80b7-6df00d86627c" name="Default Changelist" comment="" />
+      <created>1579412566600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579412566600</updated>
+      <workItem from="1579412569348" duration="1903000" />
+      <workItem from="1579434640207" duration="1808000" />
+      <workItem from="1586420020182" duration="1881000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Project_Structure" timestamp="1579413381942">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1579413381942" />
+    <state x="357" y="104" key="FileChooserDialogImpl" timestamp="1579435466878">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="357" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579435466878" />
+    <state x="544" y="316" key="Github.ShareDialog" timestamp="1586420116217">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="544" y="316" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1586420116217" />
+    <state x="526" y="131" key="Github.UntrackedFilesDialog" timestamp="1586420154440">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="526" y="131" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586420154440" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1586422018709">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586422018709" />
+    <state x="273" y="159" key="Vcs.Push.Dialog.v2" timestamp="1586421191677">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="273" y="159" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586421191677" />
+    <state x="363" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1579434652387">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579434652387" />
+  </component>
+</project>
